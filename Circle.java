@@ -58,7 +58,7 @@ public class Circle
      */
     public void moveLeft()
     {
-        moveHorizontal(-20);
+        moveHorizontal(-40);
     }
 
     /**
